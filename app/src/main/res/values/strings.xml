@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">SamaniAddProducts</string>
+    <string name="sizesAndColors">Sizes (Optional) | use , between each new size</string>
+    <string name="product_general_information">Product general information:</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="product_description_optional">Product description (Optional)</string>
+    <string name="offer_percentage_optional">Offer Percentage (Optional)</string>
+    <string name="product_details">Product details:</string>
+    <string name="colors">Colors</string>
+    <string name="images">Images</string>
+    <string name="price">Price</string>
 </resources>
